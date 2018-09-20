@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الدول</string>
+    <string name="txt_pais" translatable="false">المملكة العربية السعودية</string>
+    <string name="txt_Comida" translatable="false">التبولة</string>
+    <string name="txt_descricao_bandeira" translatable="false">علم المملكة العربية السعودية</string>
+    <string name="txt_descricao_comida" translatable="false">جدولة الطعام الصيني التقليدي</string>
+</resources>

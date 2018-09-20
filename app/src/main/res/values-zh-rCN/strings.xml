@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">國家</string>
+    <string name="txt_pais" translatable="false">中國</string>
+    <string name="txt_Comida" translatable="false">曹將軍的雞</string>
+    <string name="txt_descricao_bandeira" translatable="false">中國國旗</string>
+    <string name="txt_descricao_comida" translatable="false">曹將軍的雞肉典型的中國菜</string>
+</resources>

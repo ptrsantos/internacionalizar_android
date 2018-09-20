@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Χώρες</string>
+    <string name="txt_pais" translatable="false">Ελλάδα</string>
+    <string name="txt_Comida" translatable="false">Μουσάκα</string>
+    <string name="txt_descricao_bandeira" translatable="false">Σημαία της Ελλάδας</string>
+    <string name="txt_descricao_comida" translatable="false">Μουσάκα τυπικό ελληνικό φαγητό</string>
+</resources>

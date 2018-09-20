@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Countries</string>
+    <string name="txt_pais" translatable="false">Brazil</string>
+    <string name="txt_Comida" translatable="false">Feijoada</string>
+    <string name="txt_descricao_bandeira">Brazil flag</string>
+    <string name="txt_descricao_comida" translatable="false">Feijoada typical Brazilian food</string>
+</resources>
